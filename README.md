@@ -3,6 +3,8 @@
 <p align="center">
   I'm a fullstack software engineer with a passion for creating beautiful, accessible, and resilient websites!
   </br> </br>
+    🏓 Play my latest game at <a href="http://playratethereview.com" target="_blank">www.playratethereview.com</a>
+  </br> </br>
   <a href="https://www.linkedin.com/in/melissa-gv/" target="_blank">
     <img alt="LinkedIn link" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white">
   </a>
@@ -21,7 +23,9 @@
     <h2>Check out my work</h2>
   </summary>
 
-<img src="https://user-images.githubusercontent.com/104800030/221701466-a030842e-f4a5-4c0e-9372-b3098d89fa03.png" align="right" width="35%"/>
+
+<img src="https://user-images.githubusercontent.com/104800030/221719374-e5b948af-73f4-4bf4-b6b2-9e02f3dbb394.png" align="right" width="40%"/>
+
 
 ### Rate the Review
 
@@ -31,27 +35,23 @@ Links:
  - [Play Rate the Review Online](http://playratethereview.com)
  - [Frontend Repo](https://github.com/melissa-gv/Rate-The-Review-Frontend)
  - [Backend Repo](https://github.com/melissa-gv/Rate-The-Review-Backend)
+</br>
+</br>
+</br>
 
-<br clear="left"/>
-<br />
-<br />
-<br />
+<img src="https://user-images.githubusercontent.com/104800030/221713152-6b8e518f-50ca-479a-9a13-aae578785b1c.png" align="right" width="40%"/>
 
 ### AMAZAM
-*AMAZAM is an online store that sells clothing, shoes, and accessories. The app provides an intuitive shopping experience where customers can view product information, browse related products, read and add reviews, and search and answer questions about the products.*
 
-<p align="center">
- <img src="https://user-images.githubusercontent.com/104800030/221713152-6b8e518f-50ca-479a-9a13-aae578785b1c.png" width="35%"/>
- <img src="https://user-images.githubusercontent.com/104800030/221699201-abb9fa96-eee1-465c-8105-3208e48ee91f.png" width="35%"/>
-</p>
+*AMAZAM is an online store that sells clothing, shoes, and accessories. The app provides an intuitive shopping experience where customers can view product information, browse related products, read and add reviews, and search and answer questions about the products.*
 
 Repo Links:
  - [Frontend](https://github.com/RFC2207-SEGA/AMAZAM)
  - [Backend](https://github.com/SDC-Yoda/SDC-API-Reviews)
-<br />
+</br>
+</br>
 
-
-<img src="https://user-images.githubusercontent.com/104800030/221699495-894e4781-d9c3-41f5-b212-1d0334b328f7.png" align="right" width="45%"/>
+<img src="https://user-images.githubusercontent.com/104800030/221719791-bd6eacf1-aba2-4573-b53f-e6aa3fe47a32.png" align="right" width="40%"/>
 
 ### Old School
 *Old School is an online content-sharing platform for senior citizens where they can share videos, blogs, and their biographies.*
@@ -59,8 +59,9 @@ Repo Links:
 Repo Links:
  - [Frontend](https://github.com/RFC-Blue-Ocean-Minas-Tirith/Old-School-Front-End)
  - [Backend](https://github.com/RFC-Blue-Ocean-Minas-Tirith/Old-School-Back-End)
-<br clear="left"/>
-
+</br>
+</br>
+</br>
 </details>
 
 ## Languages
