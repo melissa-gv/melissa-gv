@@ -29,7 +29,7 @@
 
 Links:
  - [Play Rate the Review Online](http://playratethereview.com)
- - [Frontend Repo](https://github.com/melissa-gv/Rate-The-Review-Frontend)
+ - [Frontend Repo (includes demo)](https://github.com/melissa-gv/Rate-The-Review-Frontend)
  - [Backend Repo](https://github.com/melissa-gv/Rate-The-Review-Backend)
 </br>
 </br>
@@ -42,8 +42,8 @@ Links:
 *AMAZAM is an online store that sells clothing, shoes, and accessories. The app provides an intuitive shopping experience where customers can view product information, browse related products, read and add reviews, and search and answer questions about the products.*
 
 Repo Links:
- - [Frontend](https://github.com/RFC2207-SEGA/AMAZAM)
- - [Backend](https://github.com/SDC-Yoda/SDC-API-Reviews)
+ - [Frontend (includes demo)](https://github.com/RFC2207-SEGA/AMAZAM)
+ - [Backend (includes scalability and performance optimazation metrics)](https://github.com/SDC-Yoda/SDC-API-Reviews)
 </br>
 </br>
 
@@ -53,7 +53,7 @@ Repo Links:
 *Old School is an online content-sharing platform for senior citizens where they can share videos, blogs, and their biographies.*
 
 Repo Links:
- - [Frontend](https://github.com/RFC-Blue-Ocean-Minas-Tirith/Old-School-Front-End)
+ - [Frontend (includes demo)](https://github.com/RFC-Blue-Ocean-Minas-Tirith/Old-School-Front-End)
  - [Backend](https://github.com/RFC-Blue-Ocean-Minas-Tirith/Old-School-Back-End)
 </br>
 </br>
