@@ -18,14 +18,10 @@
   <img alt="Github Profile Summary Card" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=melissa-gv&theme=github_dark">
 </p>
 
-<details>
-  <summary>
-    <h2>Check out my work</h2>
-  </summary>
 
+## Check out my work
 
 <img src="https://user-images.githubusercontent.com/104800030/221719374-e5b948af-73f4-4bf4-b6b2-9e02f3dbb394.png" align="right" width="40%"/>
-
 
 ### Rate the Review
 
@@ -62,7 +58,6 @@ Repo Links:
 </br>
 </br>
 </br>
-</details>
 
 ## Languages
 ![Javscript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
