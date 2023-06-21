@@ -3,7 +3,9 @@
 <p align="center">
   I'm a fullstack software engineer with a passion for creating beautiful, accessible, and resilient websites!
   </br> </br>
-    🏓 Play my latest game at <a href="http://playratethereview.com" target="_blank" rel="noopener noreferrer">www.playratethereview.com</a>
+  👩🏽‍💻 Check out my portfolio at <a href="https://www.melissagv.com/" target="_blank">melissagv.com</a>
+  </br> </br>
+  🏓 Play my latest game at <a href="http://playratethereview.com" target="_blank" rel="noopener noreferrer">www.playratethereview.com</a>
   </br> </br>
   <a href="https://www.linkedin.com/in/melissa-gv/" target="_blank">
     <img alt="LinkedIn link" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white">
